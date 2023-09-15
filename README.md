@@ -13,14 +13,14 @@
 
 - 📫 How to reach me **muskanj9161@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/muskanj](https://linktr.ee/muskanj)
+- 📄 Connect here [https://linktr.ee/muskanj](https://linktr.ee/muskanj)
 
-- ⚡ Fun fact **I know how to centre a div :)**
+- ⚡ Fun fact... **I know how to centre a div :)**...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muskanjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskanjaiswal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muskanjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muskan jaiswal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/muskanj9161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muskan jaiswal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
