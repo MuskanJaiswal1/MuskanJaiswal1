@@ -32,6 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuskanJaiswal1&" alt="MuskanJaiswal1" /></p>
 
-<h3 align="left"> Open Source Contribution </h3>
+<!-- <h3 align="left"> Open Source Contribution </h3>
 <h5 align="left"> Hacktober Fest Badges </h5>
-<p> <img align="center" src="https://holopin.me/muskanjaiswal" alt="Holophins" /> </p>
+<p> <img align="center" src="https://holopin.me/muskanjaiswal" alt="Holophins" /> </p> -->
