@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web-Dev and C++.**
 
-- 🌱 I’m currently learning **ReactJS, Git etc.**
+- 🌱 I’m currently learning **ReactJS, Express etc.**
 
 - 👯 I’m looking to participate in **Hackathons and Internships.**
 
